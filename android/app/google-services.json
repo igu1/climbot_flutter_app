@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1065650955053",
+    "project_id": "climbot-bd74e",
+    "storage_bucket": "climbot-bd74e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1065650955053:android:45b9f494030f6ea46a69a4",
+        "android_client_info": {
+          "package_name": "com.climbot.climbot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1065650955053-70b2p3r2h7ta50futnf9l7pjaqnnujpr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCebGHgv3PAWYm4XVAwxNgat6PZrYE9BGk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1065650955053-70b2p3r2h7ta50futnf9l7pjaqnnujpr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
