@@ -1,16 +1,29 @@
-# climbot
+# IoT Weather App (Flutter + Climbot Internship)  
 
-A new Flutter project.
+## What is this?  
+During my internship at **Climbot** (founded by former IIT folks 🚀),  
+I built a **Flutter-based IoT weather application**.  
 
-## Getting Started
+This app connects to the **custom IoT weather devices** we created  
+and shows real-time weather updates directly on your phone.  
+Basically: DIY weather station → App → You stay dry (hopefully).  
 
-This project is a starting point for a Flutter application.
+## Features ☁️  
+-  ESP32
+-  Real-time weather data from IoT devices
+-  Rain, humidity, temperature & more readings
+-  Clean and functional Flutter UI  
+-  Direct connection with IoT devices (our own hardware!)  
+-  Fast & responsive (because weather waits for no one)  
 
-A few resources to get you started if this is your first Flutter project:
+## Why This Project?  
+Because sometimes weather apps lie.  
+So we decided: **let’s build our own weather system.**  
+(Also, it was a cool internship challenge 💪).  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Installation  
+```bash
+git clone https://github.com/yourusername/iot_weather_app.git  
+cd iot_weather_app  
+flutter pub get  
+flutter run  
